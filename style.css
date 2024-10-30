@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #fdbf00;
+    background-color: #133E87;
   }
   .card {
     width: 640px;
@@ -34,7 +34,7 @@
     left: 50.1%;
   }
   .inside {
-    background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
+    background: linear-gradient(to right, #ffffff , #C4D7FF 30%);
     line-height: 3;
     padding: 0 20px;
     text-align: center;
@@ -62,11 +62,11 @@
     transform: rotateX(0deg);
   }
   .front {
-    background-color: #ffffff;
+    background-color: #608BC1;
   }
   .back {
     transform: rotateY(180deg);
-    background: linear-gradient(to left, #e7e7e7, #ffffff 30%);
+    background: linear-gradient(to left, #608BC1, #608BC1 30%);
   }
   .cake {
     width: 100%;
@@ -127,13 +127,13 @@
     transform: rotate(45deg);
     left: -1px;
   }
-  .outside p {
+  .outside  {
     font-size: 23px;
     text-transform: uppercase;
-    margin-top: 30px;
+    margin-top: px;
     text-align: center;
     letter-spacing: 6px;
-    color: #000b46;
+    color: #f4f4f8;
   }
   .inside h1 {
     font-size: 120px;
